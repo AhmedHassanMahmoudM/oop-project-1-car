@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1658326853 source:f:\programming projects\ccar\src\ccar.cpp
+	"CCar.h"
+	<iostream>
+
+1658329227 f:\programming projects\ccar\include\ccar.h
+	<string>
+
+1658328718 source:f:\programming projects\ccar\main.cpp
+	<iostream>
+	<CCar.h>
+
